@@ -26,5 +26,8 @@
     <ClCompile Include="concepts.cpp">
       <Filter>Source Files\cpp20_features</Filter>
     </ClCompile>
+    <ClCompile Include="consteval.cpp">
+      <Filter>Source Files\cpp20_features</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
