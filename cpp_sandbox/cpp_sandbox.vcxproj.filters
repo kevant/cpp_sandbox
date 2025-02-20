@@ -23,5 +23,8 @@
     <ClCompile Include="span_migration.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="concepts.cpp">
+      <Filter>Source Files\cpp20_features</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

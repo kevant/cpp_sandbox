@@ -2,4 +2,5 @@
 A solution to test around different code in C++
 
 ## C++ 20 features
-**span**: useful feature
+**span**: useful feature for reading arrays
+**concepts**: useful feature for TMP
