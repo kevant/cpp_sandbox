@@ -32,5 +32,8 @@
     <ClCompile Include="ranges.cpp">
       <Filter>Source Files\cpp20_features</Filter>
     </ClCompile>
+    <ClCompile Include="source_location.cpp">
+      <Filter>Source Files\cpp20_features</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
