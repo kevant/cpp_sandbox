@@ -35,5 +35,8 @@
     <ClCompile Include="source_location.cpp">
       <Filter>Source Files\cpp20_features</Filter>
     </ClCompile>
+    <ClCompile Include="ring_array.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
