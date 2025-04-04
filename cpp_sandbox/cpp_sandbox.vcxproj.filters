@@ -38,5 +38,8 @@
     <ClCompile Include="ring_array.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="parse_expression.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
